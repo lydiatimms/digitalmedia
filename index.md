@@ -1,4 +1,6 @@
-## Welcome to Lydia's Digital Media Portfolio 
+## Welcome to Lydia's Digital Media Portfolio
+
+![colorswatch](https://github.com/lydiatimms/digitalmedia/blob/gh-pages/raster/Screen%20Shot%202020-08-26%20at%209.44.08%20AM.png?raw=true)
 
 You can use the [editor on GitHub](https://github.com/lydiatimms/digitalmedia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
