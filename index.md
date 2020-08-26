@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Lydia's Digital Media Portfolio 
 
 You can use the [editor on GitHub](https://github.com/lydiatimms/digitalmedia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
